@@ -237,7 +237,7 @@ Complete audit trail enables:
 
 ### 📺 Video Presentation
 This repository describes the causal inference framework and experimental results for early stroke detection.  
-Watch the project presentation: https://youtu.be/YOUR_LINK_HERE
+Watch the project presentation: 
 
 
 ## 📝 Citation
