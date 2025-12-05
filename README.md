@@ -1,3 +1,5 @@
+## 📌 EXPLAINABLE AI FOR EARLY STROKE DETECTION: CAUSAL AND CLINICIAN-CENTERED INTERPRETATION OF BRAIN IMAGING
+
 ## 🧠 Overview
 
 Acute ischemic stroke affects 13.7 million people each year, and outcomes depend heavily on fast and accurate diagnosis. Although deep learning models reach Dice scores between 0.60 and 0.75, recent work shows that strong accuracy does not ensure safe clinical use. This repository describes a causal intervention framework that evaluates whether stroke-detection models rely on meaningful clinical evidence rather than misleading image patterns.
