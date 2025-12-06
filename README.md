@@ -242,14 +242,14 @@ This repository describes the causal inference framework and experimental result
 Watch the project presentation: https://youtu.be/-f_VkAsTw7k 
 
 ### 🎤 Presentation
-Access the project presentation slides here: 
+Access the project presentation slides here: [Explainable-AI-for-Early-Stroke-Detection.pdf](Explainable-AI-for-Early-Stroke-Detection.pdf)
 
 
 ## 📝 Citation
 
 If you use this work in your research, please cite:
 
-Owusu, D. Blemano T.A.D (2025). Explainable AI for Stroke Detection: Causal and Clinician-Centered Interpretation of Brain Imaging.
+Owusu, D. Blemano, T.A.D (2025). Explainable AI for Stroke Detection: Causal and Clinician-Centered Interpretation of Brain Imaging.
 
 
 ## 🤝 Contributing
